@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/163644806?s=400&u=2d4958042fd697ab42895bb4424d38b40243540a&v=4" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
-</div>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/163644806?s=400&u=2d4958042fd697ab42895bb4424d38b40243540a&v=4" alt="Profile Picture" width="150" style="border-radius: 50%;">
+</p>
 
 # 💫About Me :
 Hi, I'm Badhon, a passionate frontend developer who loves turning ideas into responsive, user-friendly web experiences.
