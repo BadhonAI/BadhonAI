@@ -18,8 +18,7 @@ Hi, I'm Badhon, a passionate frontend developer who loves turning ideas into res
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=BadhonTech&icon=2&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
 
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/badhonbiswas.raj) 
