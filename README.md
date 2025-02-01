@@ -3,8 +3,7 @@
 </p>
 
 <h1 align="center">Badhon Biswas</h1>
-<h3 align="center">Developer</h3>
-<hr>
+<h2 align="center">Developer</h2>
 
 # 💫About Me :
 Hi, I'm Badhon, a passionate frontend developer who loves turning ideas into responsive, user-friendly web experiences.
