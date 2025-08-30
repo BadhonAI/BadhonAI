@@ -19,8 +19,8 @@ Hi, I'm Badhon, a passionate frontend developer who loves turning ideas into res
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badhonai&show_icons=true&locale=en&layout=compact" alt="badhonai" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badhonai&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="badhonai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badhonai&show_icons=true&locale=en" alt="badhonai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badhonai&show_icons=true&theme=highcontrast&locale=en" alt="badhonai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badhonai&" alt="badhonai" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badhonai&theme=highcontrast" alt="badhonai" /></p>
